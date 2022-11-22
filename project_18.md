@@ -53,6 +53,14 @@ resource "aws_dynamodb_table" "terraform_locks" {
 
 ![s3](/images/statefile.png)
 
+`Instantiating the Modules`
+
+![s3](/images/m.png)
+
+Modules
+
+![s3](/images/modules.png)
+
 `Run Terraform Plan`
 
 ![s3](/images/plan.png)
@@ -60,7 +68,3 @@ resource "aws_dynamodb_table" "terraform_locks" {
 `Terraform State List`
 
 ![s3](/images/state.png)
-
-Modules
-
-![s3](/images/modules.png)
