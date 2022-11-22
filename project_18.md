@@ -46,16 +46,21 @@ resource "aws_dynamodb_table" "terraform_locks" {
 ```
 
 `Lock file in DynamoDB`
+
 ![s3](/images/lock.png)
 
 `State File in Amazon S3 bucket`
+
 ![s3](/images/statefile.png)
 
 `Run Terraform Plan`
+
 ![s3](/images/plan.png)
 
 `Terraform State List`
+
 ![s3](/images/state.png)
 
 Modules
+
 ![s3](/images/modules.png)
