@@ -1,5 +1,7 @@
 # TERRAFORM MODULARIZATION FOR 2 WEB APPLICATION WITH AUTOSCALING PROJECT
 
+This tutorial assumes that you are continuing from the [previous tutorials.](https://github.com/oayanda/Automate-Infrastructure-With-IAC-using-Terraform-Part-2)
+
 ***[View Repo Here](https://github.com/oayanda/Terraform-PBL16/tree/main/PBL18)***
 
 ## Terraform backends
